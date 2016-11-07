@@ -13,19 +13,19 @@
   },
   "homepage": "https://github.com/thlorenz/proxyquireify",
   "dependencies": {
-    "browser-pack": "^3.0.0",
-    "detective": "~3.1.0",
+    "browser-pack": "^6.0.1",
+    "detective": "~4.3.2",
     "fill-keys": "^1.0.0",
     "has-require": "^1.1.0",
     "require-deps": "~1.0.1",
-    "through": "~2.2.7",
-    "xtend": "^3.0.0"
+    "through": "~2.3.8",
+    "xtend": "^4.0.1"
   },
   "devDependencies": {
-    "browserify": "^10.0.0",
-    "mold-source-map": "~0.2.0",
-    "tap": "~0.4.8",
-    "tape": "~2.12.3",
+    "browserify": "^13.1.1",
+    "mold-source-map": "~0.4.0",
+    "tap": "~8.0.0",
+    "tape": "~4.6.2",
     "test-peer-range": "^1.0.1"
   },
   "keywords": [
